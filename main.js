@@ -62,6 +62,13 @@ const app = {
       image:"img/ms1.jpg"
         
     },
+    {
+      name: "6",
+      singer: "Bei Xing",
+      path: "music7.mp3",
+      image:"img/ms1.jpg"
+        
+    },
 
     
   ],
